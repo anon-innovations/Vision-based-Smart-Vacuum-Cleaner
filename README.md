@@ -1,0 +1,2 @@
+# Vision-based Smart Vacuum Cleaner
+  The Vision-Based Smart Vacuum Cleaner redefines home cleaning. Equipped with advanced computer vision technology, it navigates spaces intelligently, recognizing obstacles and adjusting its path accordingly. With real-time visual feedback, it optimizes cleaning efficiency. This innovative device combines smart sensors and AI algorithms for a thorough and automated cleaning experience, making household chores effortless.
